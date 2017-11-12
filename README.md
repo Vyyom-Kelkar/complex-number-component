@@ -4,3 +4,5 @@ This is a basic java component created for complex numbers. This project was par
 Development was done in Eclipse. File structure in the repo also follows the structure of the Eclipse project template used in Software I and Software II courses at OSU.
 
 Feel free to fork and improve on the component!
+
+Calculator is still under development...
